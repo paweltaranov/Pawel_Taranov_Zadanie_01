@@ -1,1 +1,123 @@
-<mxfile host="app.diagrams.net" modified="2022-03-28T09:25:30.988Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" version="17.2.4" etag="NL9_wbJ2OA9ngUWaqkAz" type="github"><diagram id="kMPXcnhBmbTkZe7Mg5EM">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-28T09:42:04.957Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="qWAnpw5Oq9zDxp3758g1" version="17.2.4" type="github">
+  <diagram id="kMPXcnhBmbTkZe7Mg5EM" name="Page-1">
+    <mxGraphModel dx="1092" dy="2141" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cv_xzX7LoobdJt0uIAey-1" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="80" as="sourcePoint" />
+            <mxPoint x="400" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cv_xzX7LoobdJt0uIAey-2" value="НАЧАЛО" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="20" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cv_xzX7LoobdJt0uIAey-3" value="Да" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cv_xzX7LoobdJt0uIAey-5" target="cv_xzX7LoobdJt0uIAey-15">
+          <mxGeometry x="-0.1285" relative="1" as="geometry">
+            <mxPoint x="490" y="260" as="targetPoint" />
+            <mxPoint x="1" as="offset" />
+            <Array as="points">
+              <mxPoint x="460" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cv_xzX7LoobdJt0uIAey-4" value="Нет" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cv_xzX7LoobdJt0uIAey-5" target="cv_xzX7LoobdJt0uIAey-19">
+          <mxGeometry x="-0.337" y="1" relative="1" as="geometry">
+            <mxPoint x="400.5" y="340" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cv_xzX7LoobdJt0uIAey-5" value="x+y&amp;lt;z" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="359.5" y="220" width="81" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cv_xzX7LoobdJt0uIAey-6" value="&lt;span style=&quot;text-align: left&quot;&gt;x, y, z&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="349.25" y="130" width="99" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cv_xzX7LoobdJt0uIAey-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="401.75" y="590" as="sourcePoint" />
+            <mxPoint x="401.75" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cv_xzX7LoobdJt0uIAey-8" value="ВЫХОД" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340.5" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cv_xzX7LoobdJt0uIAey-9" value="Задание 7. &lt;br&gt;&lt;div&gt;&lt;div&gt;Даны положительные действительные числа x, y, z. Выяснить, существует ли&lt;/div&gt;&lt;div&gt;треугольник с длинами сторон x, y, z, и напечатать соответствующее сообщение&lt;/div&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="539" width="50" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="cv_xzX7LoobdJt0uIAey-10" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.52;entryY=0.512;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cv_xzX7LoobdJt0uIAey-2" target="cv_xzX7LoobdJt0uIAey-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="532.5" y="160" as="sourcePoint" />
+            <mxPoint x="582.5" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cv_xzX7LoobdJt0uIAey-11" value="ввод x, y, z&lt;br&gt;&lt;br&gt;если x+y&amp;lt;z то&lt;br&gt;&lt;span&gt;	&lt;/span&gt;&lt;span&gt;	&lt;/span&gt;&lt;br&gt;&lt;span&gt;&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;если x+z&amp;lt;y то&lt;br&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;если y+z&amp;lt;z то&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;вывод &quot;Треугольник существует&quot;&lt;br&gt;иначе &lt;br&gt;&amp;nbsp; &amp;nbsp; &lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;вывод &quot;Треугольник не существует&quot;&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;verticalAlign=top;fontSize=14;spacing=2;spacingBottom=0;spacingLeft=0;spacingTop=0;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="85" width="50" height="215" as="geometry" />
+        </mxCell>
+        <mxCell id="cv_xzX7LoobdJt0uIAey-12" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.52;entryY=0.512;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cv_xzX7LoobdJt0uIAey-2" target="cv_xzX7LoobdJt0uIAey-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="770" y="115" as="sourcePoint" />
+            <mxPoint x="902.5" y="175" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cv_xzX7LoobdJt0uIAey-14" value="Нет" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cv_xzX7LoobdJt0uIAey-15" target="cv_xzX7LoobdJt0uIAey-19">
+          <mxGeometry x="-0.7196" relative="1" as="geometry">
+            <mxPoint x="525.25" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="525" y="360" />
+              <mxPoint x="401" y="360" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cv_xzX7LoobdJt0uIAey-36" value="Да" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cv_xzX7LoobdJt0uIAey-15" target="cv_xzX7LoobdJt0uIAey-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cv_xzX7LoobdJt0uIAey-15" value="x+z&amp;lt;y" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="485.25" y="220" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cv_xzX7LoobdJt0uIAey-16" value="Нет" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry x="-0.8148" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="665.25" y="300" as="sourcePoint" />
+            <mxPoint x="401" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="665" y="360" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cv_xzX7LoobdJt0uIAey-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="cv_xzX7LoobdJt0uIAey-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="399.5" y="400" as="sourcePoint" />
+            <mxPoint x="400" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cv_xzX7LoobdJt0uIAey-19" value="&quot;Треугольник &lt;br&gt;не существует&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="335.75" y="390" width="129.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cv_xzX7LoobdJt0uIAey-22" value="y+z&amp;lt;x" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="626" y="220" width="81" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cv_xzX7LoobdJt0uIAey-37" value="Да" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="cv_xzX7LoobdJt0uIAey-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="260" as="sourcePoint" />
+            <mxPoint x="763.75" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cv_xzX7LoobdJt0uIAey-38" value="&quot;Треугольник существует&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="390" width="129.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cv_xzX7LoobdJt0uIAey-41" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="450" as="sourcePoint" />
+            <mxPoint x="400" y="480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="760" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
