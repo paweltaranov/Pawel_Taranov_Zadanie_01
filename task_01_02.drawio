@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-27T16:07:15.686Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="VxCw0_S90N_L7Utv72DI" version="17.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-28T09:21:34.004Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="DP6Fy_jwT3s70rTKR9if" version="17.2.4" type="github">
   <diagram id="VT9AYzvJR50qvAyxNG0X" name="Page-1">
-    <mxGraphModel dx="1196" dy="972" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1092" dy="972" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -63,7 +63,7 @@
             <mxPoint x="582.5" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vxaZ2jB8StWvuo2bONaX-27" value="ввод a,b,c&lt;br&gt;&lt;br&gt;если а&amp;gt;=b то&lt;br&gt;&lt;span&gt;	&lt;/span&gt;&lt;span&gt;	&lt;/span&gt;&lt;br&gt;&lt;span&gt;&lt;/span&gt;&amp;nbsp; &amp;nbsp; присвоение M=b&lt;br&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;br&gt;&amp;nbsp; &amp;nbsp; если b&amp;gt;=c то&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; присвоение М=с&lt;br&gt;&lt;br&gt;иначе&amp;nbsp;&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;присвоение M=a&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; если а&amp;gt;=с то&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; присвоение М=с&lt;br&gt;&lt;br&gt;вывод M" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;verticalAlign=top;fontSize=14;spacing=2;spacingBottom=0;spacingLeft=0;spacingTop=0;horizontal=1;" vertex="1" parent="1">
+        <mxCell id="vxaZ2jB8StWvuo2bONaX-27" value="ввод a,b,c&lt;br&gt;&lt;br&gt;если а&amp;gt;=b то&lt;br&gt;&lt;span&gt;	&lt;/span&gt;&lt;span&gt;	&lt;/span&gt;&lt;br&gt;&lt;span&gt;&lt;/span&gt;&amp;nbsp; &amp;nbsp; присвоение M=b&lt;br&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;br&gt;&amp;nbsp; &amp;nbsp; если b&amp;gt;=c то&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; присвоение М=с&lt;br&gt;&lt;br&gt;иначе&amp;nbsp; &amp;nbsp;&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;присвоение M=a&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; если а&amp;gt;=с то&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; присвоение М=с&lt;br&gt;&lt;br&gt;вывод M" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;verticalAlign=top;fontSize=14;spacing=2;spacingBottom=0;spacingLeft=0;spacingTop=0;horizontal=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="85" width="50" height="331" as="geometry" />
         </mxCell>
         <mxCell id="vxaZ2jB8StWvuo2bONaX-28" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.52;entryY=0.512;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vxaZ2jB8StWvuo2bONaX-2" target="vxaZ2jB8StWvuo2bONaX-27">
