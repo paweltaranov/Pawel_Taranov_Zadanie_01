@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-29T13:35:23.910Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="pMa717IGbZNeGneGgxY6" version="17.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-29T18:05:19.288Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="s715nqv7nL-pk1Mds-iv" version="17.2.4" type="github">
   <diagram id="rahY3ylAuWURlLl2n5CA" name="Page-1">
     <mxGraphModel dx="955" dy="972" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -41,7 +41,7 @@
         <mxCell id="KS1t5UNcp-1xRHG_rXt6-9" value="ВЫХОД" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="820" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KS1t5UNcp-1xRHG_rXt6-10" value="Вариант 17&lt;br&gt;&lt;div&gt;Найти сумму всех нечетных отрицательных чисел диапазона [-20, 20]&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+        <mxCell id="KS1t5UNcp-1xRHG_rXt6-10" value="Вариант 17/01&lt;br&gt;&lt;div&gt;1.Найти сумму всех нечетных отрицательных чисел диапазона [-20, 20]&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="364" y="47.5" width="50" height="85" as="geometry" />
         </mxCell>
         <mxCell id="KS1t5UNcp-1xRHG_rXt6-11" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.52;entryY=0.512;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KS1t5UNcp-1xRHG_rXt6-2" target="KS1t5UNcp-1xRHG_rXt6-10">
