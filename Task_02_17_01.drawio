@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-29T13:33:20.048Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="gsjiPV4aRNNts5p270nr" version="17.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-29T13:35:23.910Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="pMa717IGbZNeGneGgxY6" version="17.2.4" type="github">
   <diagram id="rahY3ylAuWURlLl2n5CA" name="Page-1">
     <mxGraphModel dx="955" dy="972" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -42,7 +42,7 @@
           <mxGeometry x="120" y="820" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KS1t5UNcp-1xRHG_rXt6-10" value="Вариант 17&lt;br&gt;&lt;div&gt;Найти сумму всех нечетных отрицательных чисел диапазона [-20, 20]&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="318.5" y="80" width="50" height="85" as="geometry" />
+          <mxGeometry x="364" y="47.5" width="50" height="85" as="geometry" />
         </mxCell>
         <mxCell id="KS1t5UNcp-1xRHG_rXt6-11" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.52;entryY=0.512;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KS1t5UNcp-1xRHG_rXt6-2" target="KS1t5UNcp-1xRHG_rXt6-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -50,8 +50,8 @@
             <mxPoint x="362" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KS1t5UNcp-1xRHG_rXt6-12" value="S=0, I=-20&lt;br&gt;&lt;br&gt;пока I&amp;lt;=20 нц&lt;br&gt;&lt;span&gt;	&lt;/span&gt;&lt;span&gt;	&lt;/span&gt;&lt;br&gt;&lt;span&gt;&lt;/span&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&amp;nbsp; &amp;nbsp; если I%2&lt;span style=&quot;line-height: 115% ; font-family: &amp;#34;times new roman&amp;#34; , &amp;#34;serif&amp;#34;&quot;&gt;≠&lt;/span&gt;0 то&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; S=S+I&lt;br&gt;&lt;/font&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;br&gt;&amp;nbsp; &amp;nbsp; I=I+1&lt;br&gt;&amp;nbsp; &amp;nbsp; &lt;br&gt;кц&lt;br&gt;&lt;br&gt;вывод (S)&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;verticalAlign=top;fontSize=14;spacing=2;spacingBottom=0;spacingLeft=0;spacingTop=0;horizontal=1;" vertex="1" parent="1">
-          <mxGeometry x="368.5" y="240" width="50" height="235" as="geometry" />
+        <mxCell id="KS1t5UNcp-1xRHG_rXt6-12" value="S=0, I=-20&lt;br&gt;&lt;br&gt;пока I&amp;lt;=20 нц&lt;br&gt;&lt;span&gt;	&lt;/span&gt;&lt;span&gt;	&lt;/span&gt;&lt;br&gt;&lt;span&gt;&lt;/span&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&amp;nbsp; &amp;nbsp; если I%2&lt;span style=&quot;line-height: 115% ; font-family: &amp;#34;times new roman&amp;#34; , &amp;#34;serif&amp;#34;&quot;&gt;≠&lt;/span&gt;0 то&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;если I&amp;lt;0 то&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; S=S+I&lt;br&gt;&lt;/font&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;br&gt;&amp;nbsp; &amp;nbsp; I=I+1&lt;br&gt;&amp;nbsp; &amp;nbsp; &lt;br&gt;кц&lt;br&gt;&lt;br&gt;вывод (S)&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;verticalAlign=top;fontSize=14;spacing=2;spacingBottom=0;spacingLeft=0;spacingTop=0;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="368.5" y="240" width="50" height="260" as="geometry" />
         </mxCell>
         <mxCell id="KS1t5UNcp-1xRHG_rXt6-13" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.52;entryY=0.512;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KS1t5UNcp-1xRHG_rXt6-2" target="KS1t5UNcp-1xRHG_rXt6-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
