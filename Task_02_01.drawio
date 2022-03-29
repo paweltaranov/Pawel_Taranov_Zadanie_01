@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-29T12:25:06.550Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="ebI_F9ofxZz_5oILZEqV" version="17.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-29T12:34:19.931Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="06U-DSDqUsbnz4rG6TW6" version="17.2.4" type="github">
   <diagram id="avpvHl-mnaf0dV959y6t" name="Page-1">
     <mxGraphModel dx="955" dy="972" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -26,7 +26,7 @@
         <mxCell id="Zf2f9bM3o7Nj7mo30cqq-4" value="Нет" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Zf2f9bM3o7Nj7mo30cqq-5" target="Zf2f9bM3o7Nj7mo30cqq-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Zf2f9bM3o7Nj7mo30cqq-5" value="x%2=0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Zf2f9bM3o7Nj7mo30cqq-5" value="&lt;span style=&quot;font-size: 14px ; text-align: left&quot;&gt;I&lt;/span&gt;%2&lt;span style=&quot;line-height: 115% ; font-family: &amp;#34;times new roman&amp;#34; , &amp;#34;serif&amp;#34;&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;≠&lt;/font&gt;&lt;/span&gt;0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="138" y="360" width="81" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Zf2f9bM3o7Nj7mo30cqq-8" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Zf2f9bM3o7Nj7mo30cqq-9" target="Zf2f9bM3o7Nj7mo30cqq-11">
@@ -50,8 +50,8 @@
             <mxPoint x="362" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Zf2f9bM3o7Nj7mo30cqq-14" value="S=0, I=1&lt;br&gt;&lt;br&gt;если x&amp;gt;0 то&lt;br&gt;&lt;span&gt;	&lt;/span&gt;&lt;span&gt;	&lt;/span&gt;&lt;br&gt;&lt;span&gt;&lt;/span&gt;&amp;nbsp; &amp;nbsp; присвоение&amp;nbsp;&lt;span style=&quot;font-size: 12px ; text-align: center&quot;&gt;f(x)=2·sin(x)&lt;/span&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;br&gt;иначе &lt;br&gt;&amp;nbsp; &amp;nbsp; &lt;br&gt;&amp;nbsp; &amp;nbsp; если x&amp;lt;-10 то&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; присвоение&amp;nbsp;&amp;nbsp;&lt;span style=&quot;font-size: 12px ; text-align: center&quot;&gt;f(x) = x&lt;/span&gt;&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; иначе&amp;nbsp;&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; присвоение&amp;nbsp;&lt;span style=&quot;font-size: 12px ; text-align: center&quot;&gt;f(x) = 3&lt;/span&gt;&lt;span style=&quot;font-size: 12px ; text-align: center&quot;&gt;x&lt;/span&gt;&lt;br&gt;&lt;br&gt;вывод&amp;nbsp;&lt;span style=&quot;font-size: 12px ; text-align: center&quot;&gt;f(x)&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;verticalAlign=top;fontSize=14;spacing=2;spacingBottom=0;spacingLeft=0;spacingTop=0;horizontal=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="165" width="50" height="305" as="geometry" />
+        <mxCell id="Zf2f9bM3o7Nj7mo30cqq-14" value="S=0, I=1&lt;br&gt;&lt;br&gt;пока I&amp;lt;=50 нц&lt;br&gt;&lt;span&gt;	&lt;/span&gt;&lt;span&gt;	&lt;/span&gt;&lt;br&gt;&lt;span&gt;&lt;/span&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&amp;nbsp; &amp;nbsp; если I%2&lt;span style=&quot;line-height: 115% ; font-family: &amp;#34;times new roman&amp;#34; , &amp;#34;serif&amp;#34;&quot;&gt;≠&lt;/span&gt;0 то&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; S=S+I&lt;br&gt;&lt;/font&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;br&gt;&amp;nbsp; &amp;nbsp; I=I+1&lt;br&gt;&amp;nbsp; &amp;nbsp; &lt;br&gt;кц&lt;br&gt;&lt;br&gt;вывод (S)&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;verticalAlign=top;fontSize=14;spacing=2;spacingBottom=0;spacingLeft=0;spacingTop=0;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="165" width="50" height="235" as="geometry" />
         </mxCell>
         <mxCell id="Zf2f9bM3o7Nj7mo30cqq-15" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.52;entryY=0.512;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Zf2f9bM3o7Nj7mo30cqq-2" target="Zf2f9bM3o7Nj7mo30cqq-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -59,7 +59,7 @@
             <mxPoint x="682" y="255" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Zf2f9bM3o7Nj7mo30cqq-16" value="S=S+x" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Zf2f9bM3o7Nj7mo30cqq-16" value="S=S+&lt;span style=&quot;font-size: 14px ; text-align: left&quot;&gt;I&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="129.5" y="480" width="101" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Zf2f9bM3o7Nj7mo30cqq-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zf2f9bM3o7Nj7mo30cqq-16" target="Zf2f9bM3o7Nj7mo30cqq-28">
