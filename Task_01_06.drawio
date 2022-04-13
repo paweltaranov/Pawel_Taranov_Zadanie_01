@@ -1,63 +1,63 @@
-<mxfile host="app.diagrams.net" modified="2022-03-28T06:10:13.628Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="wcbSIKoyiZ4rc24VGJzR" version="17.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-13T11:15:16.880Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="DNc6O2fPoQZiAAHoyW_s" version="17.4.3" type="github">
   <diagram id="37yr4msfYbyl-9EYdki9" name="Page-1">
-    <mxGraphModel dx="1092" dy="2141" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1328" dy="2141" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="oL-Ydp1QBFsGxcC119Pf-1" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="oL-Ydp1QBFsGxcC119Pf-1" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400" y="80" as="sourcePoint" />
             <mxPoint x="400" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oL-Ydp1QBFsGxcC119Pf-2" value="НАЧАЛО" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oL-Ydp1QBFsGxcC119Pf-2" value="НАЧАЛО" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="20" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oL-Ydp1QBFsGxcC119Pf-3" value="Нет" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oL-Ydp1QBFsGxcC119Pf-5" target="oL-Ydp1QBFsGxcC119Pf-19">
+        <mxCell id="oL-Ydp1QBFsGxcC119Pf-3" value="Нет" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="oL-Ydp1QBFsGxcC119Pf-5" target="oL-Ydp1QBFsGxcC119Pf-19" edge="1">
           <mxGeometry x="-0.1285" relative="1" as="geometry">
             <mxPoint x="490" y="260" as="targetPoint" />
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oL-Ydp1QBFsGxcC119Pf-4" value="Да" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oL-Ydp1QBFsGxcC119Pf-5" target="oL-Ydp1QBFsGxcC119Pf-25">
+        <mxCell id="oL-Ydp1QBFsGxcC119Pf-4" value="Да" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="oL-Ydp1QBFsGxcC119Pf-5" target="oL-Ydp1QBFsGxcC119Pf-25" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400.5" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oL-Ydp1QBFsGxcC119Pf-5" value="x=0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oL-Ydp1QBFsGxcC119Pf-5" value="x=0" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="359.5" y="220" width="81" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="oL-Ydp1QBFsGxcC119Pf-7" value="x" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="oL-Ydp1QBFsGxcC119Pf-7" value="x" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="349.25" y="130" width="99" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oL-Ydp1QBFsGxcC119Pf-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="oL-Ydp1QBFsGxcC119Pf-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="401.75" y="590" as="sourcePoint" />
             <mxPoint x="401.75" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oL-Ydp1QBFsGxcC119Pf-11" value="ВЫХОД" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oL-Ydp1QBFsGxcC119Pf-11" value="ВЫХОД" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oL-Ydp1QBFsGxcC119Pf-12" value="Задание 6. &lt;br&gt;&lt;div&gt;&lt;div&gt;Дано целое число в диапазоне от -99 до 99. Вывести его строку-описание вида&lt;/div&gt;&lt;div&gt;«отрицательное четное число», «нулевое число», «положительное нечетное число» и т. д.&lt;/div&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+        <mxCell id="oL-Ydp1QBFsGxcC119Pf-12" value="Задание 6. &lt;br&gt;&lt;div&gt;&lt;div&gt;Дано целое число в диапазоне от -99 до 99. Вывести его строку-описание вида&lt;/div&gt;&lt;div&gt;«отрицательное четное число», «нулевое число», «положительное нечетное число» и т. д.&lt;/div&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" parent="1" vertex="1">
           <mxGeometry x="539" width="50" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="oL-Ydp1QBFsGxcC119Pf-13" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.52;entryY=0.512;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oL-Ydp1QBFsGxcC119Pf-2" target="oL-Ydp1QBFsGxcC119Pf-12">
+        <mxCell id="oL-Ydp1QBFsGxcC119Pf-13" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.52;entryY=0.512;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="oL-Ydp1QBFsGxcC119Pf-2" target="oL-Ydp1QBFsGxcC119Pf-12" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="532.5" y="160" as="sourcePoint" />
             <mxPoint x="582.5" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oL-Ydp1QBFsGxcC119Pf-14" value="ввод х&lt;br&gt;&lt;br&gt;если x=0 то&lt;br&gt;&lt;span&gt;	&lt;/span&gt;&lt;span&gt;	&lt;/span&gt;&lt;br&gt;&lt;span&gt;&lt;/span&gt;&amp;nbsp; &amp;nbsp; вывод &quot;нулевое число&quot;&lt;br&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;br&gt;иначе &lt;br&gt;&amp;nbsp; &amp;nbsp; &lt;br&gt;&amp;nbsp; &amp;nbsp; если x%2=0 то&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; если х&amp;gt;0 то&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;вывод &quot;положительное четное число&quot;&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;иначе&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;вывод &quot;отрицательное&amp;nbsp;четное число&quot;&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; иначе&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; если х&amp;gt;0 то&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;вывод &quot;положительное нечетное число&quot;&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;иначе&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;вывод &quot;отрицательное нечетное число&quot;&amp;nbsp;&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;verticalAlign=top;fontSize=14;spacing=2;spacingBottom=0;spacingLeft=0;spacingTop=0;horizontal=1;" vertex="1" parent="1">
+        <mxCell id="oL-Ydp1QBFsGxcC119Pf-14" value="ввод х&lt;br&gt;&lt;br&gt;если x=0 то&lt;br&gt;&lt;span&gt; &lt;/span&gt;&lt;span&gt; &lt;/span&gt;&lt;br&gt;&lt;span&gt;&lt;/span&gt;&amp;nbsp; &amp;nbsp; вывод &quot;нулевое число&quot;&lt;br&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;br&gt;иначе &lt;br&gt;&amp;nbsp; &amp;nbsp; &lt;br&gt;&amp;nbsp; &amp;nbsp; если x%2!=0 то&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; если х&amp;gt;0 то&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;вывод &quot;положительное нечетное число&quot;&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;иначе&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;вывод &quot;отрицательное нечетное число&quot;&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; иначе&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; если х&amp;gt;0 то&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;вывод &quot;положительное четное число&quot;&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;иначе&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;вывод &quot;отрицательное четное число&quot;&amp;nbsp;&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;verticalAlign=top;fontSize=14;spacing=2;spacingBottom=0;spacingLeft=0;spacingTop=0;horizontal=1;" parent="1" vertex="1">
           <mxGeometry x="860" y="85" width="50" height="465" as="geometry" />
         </mxCell>
-        <mxCell id="oL-Ydp1QBFsGxcC119Pf-15" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.52;entryY=0.512;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oL-Ydp1QBFsGxcC119Pf-2" target="oL-Ydp1QBFsGxcC119Pf-14">
+        <mxCell id="oL-Ydp1QBFsGxcC119Pf-15" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.52;entryY=0.512;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="oL-Ydp1QBFsGxcC119Pf-2" target="oL-Ydp1QBFsGxcC119Pf-14" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="770" y="115" as="sourcePoint" />
             <mxPoint x="902.5" y="175" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oL-Ydp1QBFsGxcC119Pf-17" value="Да" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oL-Ydp1QBFsGxcC119Pf-19">
+        <mxCell id="oL-Ydp1QBFsGxcC119Pf-17" value="Нет" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oL-Ydp1QBFsGxcC119Pf-19" edge="1">
           <mxGeometry x="-0.4526" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="685.25" y="340" as="targetPoint" />
@@ -66,65 +66,65 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oL-Ydp1QBFsGxcC119Pf-18" value="Нет" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oL-Ydp1QBFsGxcC119Pf-19">
+        <mxCell id="oL-Ydp1QBFsGxcC119Pf-18" value="Да" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oL-Ydp1QBFsGxcC119Pf-19" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="525.25" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oL-Ydp1QBFsGxcC119Pf-19" value="x%2=0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oL-Ydp1QBFsGxcC119Pf-19" value="x%2!=0" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="485.25" y="220" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="oL-Ydp1QBFsGxcC119Pf-22" value="Нет" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="oL-Ydp1QBFsGxcC119Pf-22" value="Нет" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="525.25" y="400" as="sourcePoint" />
             <mxPoint x="525.25" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oL-Ydp1QBFsGxcC119Pf-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="oL-Ydp1QBFsGxcC119Pf-11">
+        <mxCell id="oL-Ydp1QBFsGxcC119Pf-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="oL-Ydp1QBFsGxcC119Pf-11" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="399.5" y="400" as="sourcePoint" />
             <mxPoint x="400" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oL-Ydp1QBFsGxcC119Pf-24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="oL-Ydp1QBFsGxcC119Pf-24" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="760" y="640" as="sourcePoint" />
             <mxPoint x="400.5" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oL-Ydp1QBFsGxcC119Pf-25" value="&quot;нулевое число&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="oL-Ydp1QBFsGxcC119Pf-25" value="&quot;нулевое число&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="335.75" y="390" width="129.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oL-Ydp1QBFsGxcC119Pf-31" value="Да" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="oL-Ydp1QBFsGxcC119Pf-26">
+        <mxCell id="oL-Ydp1QBFsGxcC119Pf-31" value="Да" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="oL-Ydp1QBFsGxcC119Pf-26" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="605.25" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oL-Ydp1QBFsGxcC119Pf-26" value="x&amp;gt;0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oL-Ydp1QBFsGxcC119Pf-26" value="x&amp;gt;0" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="485.25" y="340" width="81" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="oL-Ydp1QBFsGxcC119Pf-27" value="x&amp;gt;0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oL-Ydp1QBFsGxcC119Pf-27" value="x&amp;gt;0" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="645.25" y="340" width="81" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="oL-Ydp1QBFsGxcC119Pf-28" value="Да" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="oL-Ydp1QBFsGxcC119Pf-28" value="Да" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="685.25" y="420" as="sourcePoint" />
             <mxPoint x="685.25" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oL-Ydp1QBFsGxcC119Pf-32" value="&quot;положительное нечетное число&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="oL-Ydp1QBFsGxcC119Pf-32" value="&quot;положительное нечетное число&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="545.25" y="540" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="oL-Ydp1QBFsGxcC119Pf-33" value="&quot;отрицательное&lt;br&gt;нечетное число&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="oL-Ydp1QBFsGxcC119Pf-33" value="&quot;отрицательное&lt;br&gt;нечетное число&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="465.25" y="470" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="oL-Ydp1QBFsGxcC119Pf-34" value="&quot;положительное&lt;br&gt;четное число&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="oL-Ydp1QBFsGxcC119Pf-34" value="&quot;положительное&lt;br&gt;четное число&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="625.75" y="470" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="oL-Ydp1QBFsGxcC119Pf-35" value="&quot;отрицательное четное число&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="oL-Ydp1QBFsGxcC119Pf-35" value="&quot;отрицательное четное число&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="707" y="540" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="oL-Ydp1QBFsGxcC119Pf-36" value="Нет" style="endArrow=classic;html=1;rounded=0;entryX=0.448;entryY=-0.065;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="oL-Ydp1QBFsGxcC119Pf-35">
+        <mxCell id="oL-Ydp1QBFsGxcC119Pf-36" value="Нет" style="endArrow=classic;html=1;rounded=0;entryX=0.448;entryY=-0.065;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="oL-Ydp1QBFsGxcC119Pf-35" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="726.25" y="380" as="sourcePoint" />
             <mxPoint x="770" y="540" as="targetPoint" />
@@ -133,27 +133,27 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oL-Ydp1QBFsGxcC119Pf-37" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="oL-Ydp1QBFsGxcC119Pf-37" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="524.75" y="520" as="sourcePoint" />
             <mxPoint x="524.75" y="640" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oL-Ydp1QBFsGxcC119Pf-38" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="oL-Ydp1QBFsGxcC119Pf-38" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="685.25" y="520" as="sourcePoint" />
             <mxPoint x="685.25" y="640" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oL-Ydp1QBFsGxcC119Pf-41" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="oL-Ydp1QBFsGxcC119Pf-32">
+        <mxCell id="oL-Ydp1QBFsGxcC119Pf-41" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="oL-Ydp1QBFsGxcC119Pf-32" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="710" y="570" as="sourcePoint" />
             <mxPoint x="605" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oL-Ydp1QBFsGxcC119Pf-42" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.448;exitY=1.026;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="oL-Ydp1QBFsGxcC119Pf-35">
+        <mxCell id="oL-Ydp1QBFsGxcC119Pf-42" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.448;exitY=1.026;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="oL-Ydp1QBFsGxcC119Pf-35" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="780.25" y="590" as="sourcePoint" />
             <mxPoint x="760" y="640" as="targetPoint" />
