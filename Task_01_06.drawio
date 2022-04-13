@@ -1,17 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2022-04-13T11:15:16.880Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="DNc6O2fPoQZiAAHoyW_s" version="17.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-13T11:21:57.973Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="d5wCpaufpZScm9TzHIVE" version="17.4.3" type="github">
   <diagram id="37yr4msfYbyl-9EYdki9" name="Page-1">
     <mxGraphModel dx="1328" dy="2141" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="oL-Ydp1QBFsGxcC119Pf-1" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="oL-Ydp1QBFsGxcC119Pf-1" value="Да" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1" source="oL-Ydp1QBFsGxcC119Pf-2">
+          <mxGeometry x="0.5" relative="1" as="geometry">
             <mxPoint x="400" y="80" as="sourcePoint" />
             <mxPoint x="400" y="250" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oL-Ydp1QBFsGxcC119Pf-2" value="НАЧАЛО" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="350" y="20" width="100" height="60" as="geometry" />
+          <mxGeometry x="350" y="-10" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oL-Ydp1QBFsGxcC119Pf-3" value="Нет" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="oL-Ydp1QBFsGxcC119Pf-5" target="oL-Ydp1QBFsGxcC119Pf-19" edge="1">
           <mxGeometry x="-0.1285" relative="1" as="geometry">
@@ -28,7 +29,7 @@
           <mxGeometry x="359.5" y="220" width="81" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oL-Ydp1QBFsGxcC119Pf-7" value="x" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="349.25" y="130" width="99" height="40" as="geometry" />
+          <mxGeometry x="350" y="70" width="99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oL-Ydp1QBFsGxcC119Pf-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -48,8 +49,8 @@
             <mxPoint x="582.5" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oL-Ydp1QBFsGxcC119Pf-14" value="ввод х&lt;br&gt;&lt;br&gt;если x=0 то&lt;br&gt;&lt;span&gt; &lt;/span&gt;&lt;span&gt; &lt;/span&gt;&lt;br&gt;&lt;span&gt;&lt;/span&gt;&amp;nbsp; &amp;nbsp; вывод &quot;нулевое число&quot;&lt;br&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;br&gt;иначе &lt;br&gt;&amp;nbsp; &amp;nbsp; &lt;br&gt;&amp;nbsp; &amp;nbsp; если x%2!=0 то&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; если х&amp;gt;0 то&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;вывод &quot;положительное нечетное число&quot;&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;иначе&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;вывод &quot;отрицательное нечетное число&quot;&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; иначе&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; если х&amp;gt;0 то&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;вывод &quot;положительное четное число&quot;&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;иначе&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;вывод &quot;отрицательное четное число&quot;&amp;nbsp;&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;verticalAlign=top;fontSize=14;spacing=2;spacingBottom=0;spacingLeft=0;spacingTop=0;horizontal=1;" parent="1" vertex="1">
-          <mxGeometry x="860" y="85" width="50" height="465" as="geometry" />
+        <mxCell id="oL-Ydp1QBFsGxcC119Pf-14" value="ввод х&lt;br&gt;&lt;br&gt;если&amp;nbsp;&lt;span style=&quot;font-size: 12px ; text-align: center&quot;&gt;-99&amp;lt;=x&amp;lt;=99&lt;/span&gt;&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp;если x=0 то&lt;br&gt;&lt;span&gt; &lt;/span&gt;&lt;span&gt; &lt;/span&gt;&lt;br&gt;&lt;span&gt;&lt;/span&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp; &amp;nbsp; вывод &quot;нулевое число&quot;&lt;br&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;br&gt;&amp;nbsp; &amp;nbsp;иначе &lt;br&gt;&amp;nbsp; &amp;nbsp; &lt;br&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp; &amp;nbsp; если x%2!=0 то&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;если х&amp;gt;0 то&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; вывод &quot;положительное нечетное число&quot;&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; иначе&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; вывод &quot;отрицательное нечетное число&quot;&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;иначе&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;если х&amp;gt;0 то&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; вывод &quot;положительное четное число&quot;&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; иначе&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; вывод &quot;отрицательное четное число&quot;&amp;nbsp;&lt;br&gt;иначе&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp;вывод &quot;число не соответствует требованиям&quot;&amp;nbsp;&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;verticalAlign=top;fontSize=14;spacing=2;spacingBottom=0;spacingLeft=0;spacingTop=0;horizontal=1;" parent="1" vertex="1">
+          <mxGeometry x="860" y="85" width="50" height="565" as="geometry" />
         </mxCell>
         <mxCell id="oL-Ydp1QBFsGxcC119Pf-15" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.52;entryY=0.512;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="oL-Ydp1QBFsGxcC119Pf-2" target="oL-Ydp1QBFsGxcC119Pf-14" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -157,6 +158,28 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="780.25" y="590" as="sourcePoint" />
             <mxPoint x="760" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rUkNuJKTkSLZ4o0tmojv-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rUkNuJKTkSLZ4o0tmojv-1" target="rUkNuJKTkSLZ4o0tmojv-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rUkNuJKTkSLZ4o0tmojv-1" value="-99&amp;lt;=x&amp;lt;=99" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="120" width="101" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rUkNuJKTkSLZ4o0tmojv-8" value="&quot;число не соответствует требованиям&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="239.5" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rUkNuJKTkSLZ4o0tmojv-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="rUkNuJKTkSLZ4o0tmojv-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="810" y="400" as="sourcePoint" />
+            <mxPoint x="400" y="640" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="300" y="640" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
